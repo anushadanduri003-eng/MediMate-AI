@@ -1,0 +1,8 @@
+{
+  "name": "MediMate AI – Personal Health Copilot",
+  "description": "AI-Powered Personal Health Copilot for intelligent medical report analysis, OCR extraction, bilingual summaries in English and Telugu, lab tracking, and ABHA integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
